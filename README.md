@@ -61,6 +61,7 @@ Awesome Remote Work
 - [https://remotejobr.com](https://remotejobr.com)  Barebones site with listing of remote roles  
 - [http://www.soshace.com](http://www.soshace.com) a Full-time jobs for React/Angular/Vue.js/Python/Java developers.
 - [https://www.lancegator.com/](https://www.lancegator.com/) - freelance jobs aggregator
+- [https://fullstackjob.com/jobs/remote-ok](https://fullstackjob.com/) - Full-Stack Developer Jobs with Remote OK filter.
 
 ## Software
 - [Skype](http://www.skype.com) for quick chat.
