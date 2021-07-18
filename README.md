@@ -73,6 +73,7 @@ Awesome Remote Work
 - [https://employbl.com](https://employbl.com/job-listings) - Find remote jobs for Bay Area tech companies and startups
 - [https://rubyonremote.com](https://rubyonremote.com/) - Ruby On Remote, All ruby remote jobs in one place.
 - [http://remoteclub.io/](http://remoteclub.io/) a remote job board showcasing both jobs and candidates
+- [https://golangjob.xyz/jobs/remote-ok](https://golangjob.xyz/jobs/remote-ok) - Remote Jobs for Golang Developers
 
 ## Software
 - [Work From Home List](https://wfhlist.io) An Open List of Work From Home Software & Hardware tools.
